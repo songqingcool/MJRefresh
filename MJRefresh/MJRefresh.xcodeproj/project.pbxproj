@@ -83,7 +83,6 @@
 		E91F6F431D9B744B00671C3D /* MJRefreshTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = MJRefreshTests.m; sourceTree = "<group>"; };
 		E91F6F451D9B744B00671C3D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		E91F6F4F1D9B746D00671C3D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../../README.md; sourceTree = "<group>"; };
-		E91F6F571D9B77E600671C3D /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		E91F6F5A1D9B77E600671C3D /* MJRefreshAutoFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshAutoFooter.h; sourceTree = "<group>"; };
 		E91F6F5B1D9B77E600671C3D /* MJRefreshAutoFooter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MJRefreshAutoFooter.m; sourceTree = "<group>"; };
 		E91F6F5C1D9B77E600671C3D /* MJRefreshBackFooter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MJRefreshBackFooter.h; sourceTree = "<group>"; };
@@ -165,7 +164,6 @@
 		E91F6F371D9B744B00671C3D /* MJRefresh */ = {
 			isa = PBXGroup;
 			children = (
-				E91F6F561D9B77E600671C3D /* doc */,
 				E91F6F581D9B77E600671C3D /* MJRefresh */,
 				E91F6F381D9B744B00671C3D /* MJRefresh.h */,
 				E91F6F391D9B744B00671C3D /* Info.plist */,
@@ -181,14 +179,6 @@
 				E91F6F451D9B744B00671C3D /* Info.plist */,
 			);
 			path = MJRefreshTests;
-			sourceTree = "<group>";
-		};
-		E91F6F561D9B77E600671C3D /* doc */ = {
-			isa = PBXGroup;
-			children = (
-				E91F6F571D9B77E600671C3D /* README.md */,
-			);
-			path = doc;
 			sourceTree = "<group>";
 		};
 		E91F6F581D9B77E600671C3D /* MJRefresh */ = {
